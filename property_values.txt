@@ -1,0 +1,4 @@
+Reservoir Name: RES-A
+Average Porosity: 15%
+Average Permeability: 134 md
+Average Water Saturation: 24%
